@@ -8,4 +8,4 @@ This is a java project made to learn OOPs concept ie. abstraction, polymorphism,
 🚗 Car Management: Manage cars, brands, models, and pricing details.
 
 **How to run?**  
-To run the java file type this in the terminal: 'Main.java' or directly right click on the program and select the option: 'Run Java'.
+Download this Main.java file and to run the java file type this in the terminal: 'Main.java' or directly right click on the program and select the option: 'Run Java'.
